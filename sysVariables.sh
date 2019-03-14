@@ -8,4 +8,3 @@ echo $PATH
 echo $SHLVL
 #显示LOGNAME变量
 echo $LOGNAME
-
